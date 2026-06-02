@@ -71,6 +71,12 @@ open your preferred web browser to the dedicated page.
 - Click Check again → validate your configuration.
 - Refreshing the page resets the level to its original state.
 
+## Submission Requirements:
+
+- The repository must include 10 exported configuration files
+- Each file corresponds to one level (0 to 10)
+- All files must be located at the root of the repository
+
 # Submission details
 This project repository contains 10 exported configuration files, one for each level, located at the root of the project.
 
